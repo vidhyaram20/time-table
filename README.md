@@ -1,3 +1,4 @@
+<html>
 <head>
 <title>My schedule</title>
 <style>
@@ -82,3 +83,4 @@
 <br>2 = M-F 12-1 lunch
 </pre>
 </body>
+</html>
