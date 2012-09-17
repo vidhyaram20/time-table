@@ -1,4 +1,4 @@
-head>
+<head>
 <title>My schedule</title>
 <style>
  th{background-color:white;font-weight:bold;font-size:10pt}
